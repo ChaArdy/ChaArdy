@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paw - Wutthichai Pubunthong</h1>
-<h3 align="center">I'm a 3rd-year Computer Science student at Srinakharinwirot University with a passion for fontend. Welcome to my WORLD!!!.</h3>
+<h3 align="center">I'm a 3rd-year Computer Science student at Srinakharinwirot University with a passion for fontend and web development. Welcome to my WORLD!!!.</h3>
 
 - 📫 How to reach me **wutthichaipaw@gmail.com**
 
